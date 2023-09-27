@@ -1,2 +1,2 @@
 # zen-garden
-Bootcamp repo practice
+Bootcamp Repo Practice
